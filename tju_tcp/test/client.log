@@ -1,0 +1,6 @@
+SYN_SENT
+客户端已放入哈希表
+找到了能够处理该TCP数据包的socket
+进入handle函数
+flags:12
+进入if
